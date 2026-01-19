@@ -14,7 +14,7 @@
     Upgraded Console UI
         Smoother navigation and professional design
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
     Language: C++
     Paradigm: Procedural with structured programming concepts
